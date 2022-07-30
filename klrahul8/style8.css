@@ -1,0 +1,68 @@
+.div{
+background-color:lightsteelblue;
+height:105vh;
+width:40vw;
+background-size: cover;
+margin:0px,auto;
+}
+.card{
+background-color: mediumvioletred;
+height:35vh;
+color: white;
+padding:10px;
+font-size: large;
+width: 40vw;
+
+}
+.p{
+color: white;
+font-size: small;
+}
+.h1{
+font-size: large;
+}
+.card1{
+    background-color: white;
+    height: 20vh;
+    width: 35vw;
+    border-radius: 10px;
+    margin:10px;
+}
+.head{
+ font-size: large;
+}
+.h1v{
+font-size: large;
+}
+.bg-card{
+    height: 300px;
+    width: 200px;
+    margin:10px;
+    border-radius: 10px;
+}
+.h3{
+    font-size: small;
+}
+.card3{
+height: 300px;
+width: 200px;
+border-radius: 10px;
+
+}
+.h3c{
+    font-size: small;
+}
+.card4{
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+}
+.h3d{
+font-size: small;
+}
+.btn1{
+    border-radius: 10px;
+    border-color: blue;
+    background-color: blue;
+    
+}    

@@ -1,0 +1,36 @@
+.bg-container{
+background-image:url("text2.png");
+height: 100vh;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 50px;  
+}
+.card{
+
+border:solid 5px;
+border-color:rgb(6, 216,6);
+height: 40vh;
+width: 25vw;
+text-align: justify;
+font-size: 23px;
+color:white;
+padding: 30px;
+margin-right: 200px;
+font-weight: bold;
+margin-top: 220px;
+opacity:0.8;
+background-color: black;
+margin-left: 130px;
+border-radius: 0px;
+overflow:none;
+}
+
+
+
+
+
+
+
+
+
+}

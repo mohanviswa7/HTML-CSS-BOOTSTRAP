@@ -1,0 +1,40 @@
+.bg-container{
+    background-image:url("music.png");
+    background-size:cover;
+    height:125vh;
+    width: 500px;
+    margin-left: 450px;
+font-family: Cambria(Headings);
+}
+.card1{
+background-color: white;
+height: 170px;
+width: 500px;
+border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+padding:10px;
+}
+h2{
+color: darkmagenta;
+font-weight:bold;
+}
+.button-1{
+border-radius:7px;
+width:130px;
+height:40px;
+padding:2px;
+font-size: small;
+margin-left: 80px;
+border-width: 1px;
+}
+.button-2{
+border-width: 1px;
+background-color: darkmagenta;
+border-radius:7px;
+width: 130px;
+height: 40px;
+padding: 2px;
+color: white;
+font-size:small;
+margin-left: 20px;
+}

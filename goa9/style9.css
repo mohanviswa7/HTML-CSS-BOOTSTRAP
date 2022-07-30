@@ -1,0 +1,36 @@
+.d1-bg{
+background-image: url("goa-c1-img.png");
+    background-size: cover;
+    height: 20vh;
+    margin:0px:auto;
+    width:20vw;
+}
+.d2-bg{
+background-color: white;
+height: 25vh;
+}
+.h1{
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.h4{
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.img{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-color: black;
+    border-width: 30px;
+}
+.c1{
+    height: 10px;
+}
+.m{
+    width: 300px;
+    height: 300px;
+}
